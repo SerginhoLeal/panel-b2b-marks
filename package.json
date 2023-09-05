@@ -1,0 +1,10 @@
+{
+  "name": "panel",
+  "version": "0.0.0",
+  "description": "private panel for Mark's Jóias",
+  "main": "index.js",
+  "repository": "https://github.com/SerginhoLeal/panel-b2b-marks.git",
+  "author": "Sergio Leal",
+  "license": "MIT",
+  "private": true
+}
