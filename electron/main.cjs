@@ -10,7 +10,8 @@ function createWindow () {
     }
   })
 
-  win.loadFile('index.html')
+  // win.loadFile(path.join(app.getAppPath(), 'dist/index.html'))
+  win.loadURL('http://localhost:5173/')
 }
 
 app.whenReady().then(() => {
